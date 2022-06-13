@@ -1,4 +1,4 @@
-package Codeforces;
+package Codeforces.java;
 
 import java.util.Scanner;
 public class BearAndBigBrother{
